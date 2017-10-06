@@ -1,0 +1,8 @@
+
+canvas {
+	background-color: black;
+	border: solid 5px darkgrey;
+	position: relative;
+	width: 500px;
+	height: 500px;
+}
